@@ -1,0 +1,500 @@
+Maintainer, sole developer, sole active user of the programming language SPITBOL
+SQLite timeline items related to "json"
+EasyOpenCL – The easiest way to get started with GPU programming
+How to Fold a Julia Fractal
+Feynman's Public Lectures on Quantum Electrodynamics
+Post-quantum cryptography
+Implementing a lightweight task scheduler in C++
+Lisp for the Web, Part III
+Hints on Programming Language Design (1973) [pdf]
+Programming the Quantum Future
+“Two days ago the police came to me and wanted me to stop working on this”
+What a posthumous brain scan reveals about Leonardo Da Vinci's creativity
+Theremin
+DCFL – A parallelized constraint solving library for Haskell
+Got Papers? Preserving the Demoscene's Material Heritage
+Jim Tcl – A Tcl Interpreter
+Genetic Programming for Finite Algebras [pdf]
+The Dimensional Ladder
+Kaldi Speech Recognition Toolkit
+What Can AI Get from Neuroscience? (2007) [pdf]
+Exploring the Hacker Tools of Mr. Robot
+The Muse (YC W12) is hiring fullstack and back end engineers
+GitLab 7.14 released
+A simple implementation of the SECD abstract machine
+Another toll of the drought: Land is sinking in San Joaquin Valley
+Trucks Are Killing Us
+An intellectually challenging game of loop
+How “The End of the Tour” Nails an Entire Profession
+Rethinking temperature, sensors, and Raspberry Pi
+Jeff Bezos and the Amazon Way
+Five Ways to Lie with Charts
+Hummingbirds Are Fierce
+Startup Metrics
+Modafinil for cognitive neuroenhancement: a systematic review
+Nobel winner Stiglitz: “American Dream is a myth”
+Gopher images for the Go developer community
+Obama Administration Supports Privacy-Invasive “Cybersecurity” Bill
+Stop Writing JavaScript Frameworks – Joe Gregorio – OSCON 2015
+‘It May Seem Silly’
+Bcachefs – A general purpose COW filesystem
+iOS 9 Ad Blocker Benchmarks
+BuildZoom Is Hiring
+It Is Done
+Ask HN: Has anyone else noticed Stack Overflow clones in Google search results?
+Tesla and Airbnb partner to install chargers at prime rental locations
+Hackpad source code
+Financial Misstatements
+Mining Mach Services within OS X Sandbox (2013) [pdf]
+China loves the lingo of games
+Think Labyrinth: Maze Algorithms
+Ask HN: What are your motivations to open source a major project?
+A NASA Engineer Became an Astronaut After Being Rejected 14 Times
+How Coursera Cracked the Chinese Market
+Bitcoin in China: An Insider’s View
+In praise of Bayes (2000)
+Titan Graph Database Integration with DynamoDB
+Flexport is hiring a senior front-end engineer
+Natural and Artificial Intelligence (1988) [pdf]
+Making maps with noise functions
+The time is right to re-examine the L.A. freeway
+When the Birds and the Bees Were Not Enough: Aristotle’s Masterpiece
+The Five Myths of Healthcare Startups
+Exploiting Similarities Among Languages for Machine Translation (2013)
+US strategy to create a new global legal and economic system: TPP, TTIP, TISA
+Boston's WGBH initiates careless groundless legal action against Fedflix project
+Petition UK government to not ban encryption
+DRAKON – An algorithmic visual programming language
+Ask HN: Where would you move your family to?
+HTTP/2 technology demo
+Super: Solving an example problem by the Myosotis method
+The Jonathan Computer
+Matlab’s internal memory representation (2012)
+Oil Falls Below $40 for First Time Since 2009 as Glut Grows
+An Introduction to Quantum Field Theory
+IBM System/360 Model 67
+Designing and Building Stockfighter, Our Programming Game
+What Killed Smalltalk?
+Gopher Tricks
+Writing a Game Boy Advance Game
+Google ordered to remove links to stories about Google removing links to stories
+Mycroft – A distributed declarative logic language
+What would happen if a massive solar storm hit the earth?
+The Future of Developing Firefox Add-ons
+Show HN: Generate React forms from JSON form schemas
+Hardware Reverse Engineering Course
+Where should the “6” key be?
+Prune: A Tree-Based, Home-Row-Oriented Code Editor
+Jailhouse: Linux-based partitioning hypervisor
+The Post-YC Slump
+The Fundamental Limits of Knowledge
+Multiscale Gigapixel Camera
+The Growing Importance of Social Skills in the Labor Market [pdf]
+Uber Plans to Go Public in 18-24 Months, According to Leaked Presentation
+Seth Nickell on Replacing the Aging Init Procedure on Linux (2003)
+You really don’t need to work so much
+The SQLite Query Planner
+GCC is moving to git
+Coroutine I/O with scheduler in Rust
+LLVM Foundation Granted 501(c)(3) Nonprofit Status
+Tarsnap exploit bounty
+How the F.B.I. Made 'Winners Don't Use Drugs' the Arcade Motto of the '90s
+Accessing unaligned memory
+Errors and Exceptions
+Don't be a UN intern
+The likely end of DownThemAll
+C# 6.0: An Introduction
+Go, D, Erlang and C in real life: MQTT broker implementation shootout (2013)
+Generating Spherical Distance Fields from Polygons
+Quantum Computing Primer
+“Brainy” mice raise hope of better treatments for cognitive disorders
+Calculus on Graphs (2004)
+Proofing Spirits with a Homemade Electrobalance
+The original “hello, world” program, Written in B (1972)
+Guile: Types and the Web
+Russian parliament asks to prohibit Windows 10 use in state organizations
+Show HN: iBurn 2015 – Open Source iOS and Android App for Burning Man
+Ask HN: What does the percentage next to posts mean?
+Something Deep Inside Pluto Is Replenishing Its Atmosphere
+Cybersecurity’s Human Factor: Lessons from the Pentagon
+The unique ecology of human predators
+Lazy load responsive images
+The Glium Library – Safe OpenGL in Rust
+The Second Coming of Deep Linking
+July 2015 was warmest month ever recorded
+Twitter Falls Below IPO Price as Concerns Mount Over CEO, Growth
+Towards Heroku for Unikernels: Part 1 – Automated deployment
+Code Rush – The Beginnings of Netscape / Mozilla (2000) [video]
+Gaussian Process School Notes
+Announcing the D-Wave 2X Quantum Computer
+Mitsuba – A physically based renderer
+Imba – A new programming language for the web
+Why English as the Universal Language of Science Is a Problem for Research
+Exploiting Domain-Specific Knowledge: Spiral [pdf]
+The Teflon Toxin Part 3: How DuPont Slipped Past the EPA
+Ports and Power in the Indian Ocean
+Raspberry Pi 2 Cluster Assembly Tutorial
+Banksy Dismaland Show Revealed at Weston's Tropicana
+WebObjects 4.0 Developers Guide (1998) [pdf]
+Auditing and Exploiting Apple IPC [pdf]
+A visual proof that neural nets can compute any function
+AirBnB's Pricing Algorithm
+Show HN: Leantime – OpenSource Project Management
+Data Wrangling: Making data useful again
+Linux-on-the-desktop pioneer Munich now considering a switch back to Windows
+Work Hard, Live Well
+The Handmade Manifesto
+Self-driving vehicle circles Waterloo campus
+Real Life First Person Shooter, Chatroulette Version [video]
+Amazon joins in on killing Flash, stops accepting Flash ads
+Ask HN: How much equity does one deserve as a CTO of a seed funded company?
+How Zapier Went from Zero to 600k Users
+Analysis of PS4's security and the state of hacking
+What is opensource and why do I feel so guilty? (2012) [video]
+Show HN: A collection of algorithmic art generated with POV-Ray
+Abandoning the Work I Hated
+Fluentd: a high performance unified logging layer
+Daniel Ek and Minecraft creator Notch debate Spotify privacy policy
+This new 3D printed glass looks just like pouring honey
+This Experiment Suggests a Small Amount of Radiation Could Be Good for You
+An early look at SQL in Meteor
+China factory activity shrinks to six and a half year low as orders tumble
+Krugman: Debt Is Good
+The Completely Different World of Python with IBM i
+C++: Deleting destructors and virtual operator delete
+JFK Displays Actual Wait Times Using Beacons That Monitor Mobile Phones
+Fingerprints on Mobile Devices: Abusing and Leaking [pdf]
+Rb: A Redis parallelization toolkit for Python
+Debugging Lisp, Part 5
+Test versions of IE from 6 through 11 and Microsoft Edge using virtual machines
+Spotify's new privacy policy angers users
+Language Trends on GitHub
+VMware vs. bhyve Performance Comparison
+Dash: A side project to learn how to make a programming language in C
+Unraveling the enigma of Nintendo's Virtual Boy
+Google loses data as lightning strikes
+Body Language Trainer (63 cards)
+Python Enhancement Proposal 495: Local Time Disambiguation
+The Tinkerings of Robert Noyce (1983) [pdf]
+Parsing Mach-O files
+Show HN: Git-remote-dropbox – use Dropbox as a true Git server
+FAA records detail hundreds of close calls between airplanes and drones
+Obstacles to Developing Cost-Lowering Health Technology: The Inventor’s Dilemma
+Counting Bloom Filter: Efficient d-left implementation in Go
+New Book: Clojure Algorithms and Data Structures Cookbook
+Firefox Add-on Changes
+Microsoft will explain only 'significant' Windows 10 updates
+Show HN: Nihongo – Study Japanese using authentic text from games, songs, etc.
+Lessons Learned from Reading Post Mortems
+Surveillance and Falsification Implications for Open Source Intelligence
+Is a Cambrian Explosion Coming for Robotics?
+Subtraction = Growth
+Exploring the Wreck of USS Macon, the Navy's Last Flying Aircraft Carrier
+Apprentice.at – Apprenticeships, not internships
+San Jose May Put License Plate Scanners on Garbage Trucks
+The Creative Apocalypse That Wasn’t
+Will Hollywood's Whining Thwart Better TPP Copyright Rules?
+Kernighan's Lever (2012)
+A quick look at the Win2k source (2004)
+There's More to Life Than Being Happy (2013)
+Show HN: Smart-table-scroll – Browser-based tables with 1M rows
+The math behind RSA encryption
+Knuth and Plass line-breaking Revisited
+The Case for Complex Dark Matter
+Dow down 530 points
+Bonsai: Bulletproof contracts, simple e-signing, escrow for freelancers
+How Thomas van Linge Mapped Islamic State
+Countries where flying is dangerous
+Build Your Own Git UI for Mac with GitUpKit
+A Definition of Closures (2007)
+Stop calling it the Sharing Economy – That isn’t what it is
+Ask HN: Ubuntu phone- has anyone used it yet?
+Be Coachable
+A Course on Automata Theory
+Real Games for Windows (1994)
+Logical Increments – Computer parts picker
+Is ketamine the best hope for curing major depression?
+The Future of Developing Firefox Add-Ons
+From Retail Palace to Zombie Mall: How Efficiency Killed the Department Store
+Writing code that writes code – Hack Codegen
+Show HN: Caman – A self-signing certificate authority manager
+Larry Ellison’s Cat Island
+Show HN: CopperheadOS – A hardened fork of Android (just released our alpha)
+Open Source Legal Docs – Save Money and Better Understand the Docs
+The War on Drugs and Prison Growth: Limited importance and legislative options [pdf]
+When cultural heritage gets a digital life
+Show HN: FoundersKit – $6k of discounts for the best startup tools for only $39
+Gravity's Oldest Puzzles
+Mobile Network Performance in the US
+Michael Crichton and Computers
+Tig: text-mode interface for Git
+NSA preps quantum-resistant algorithms to head off crypto-apocalypse
+Image Scaling using Deep Convolutional Neural Networks
+Create Your Own CPU on an FPGA
+Bootstrap 4 alpha
+How the modern world came to recognize autistic people 
+On the orientation of Roman towns in Italy (2007) [pdf]
+Chrome for Mac significantly improves memory consumption and power efficiency
+What the nose knows
+Google's Toughest Search Is for a Business Model (2002)
+Are Lawyers Getting Dumber?
+How to Be the Fastest Developer on Your Team, Part 2
+Fast wildcard searches with trigrams
+Introducing Improved Performance Dynos
+The curious case of whistled languages and their lack of left-brain dominance
+Virtual Structs Part 3: Bringing Enums and Structs Together
+Show HN: 10HN – Top articles from HN served every morning and every evening
+Stingray: 3D Game Engine and Design Visualization
+Go 1.5 is released
+The Strange Appeal of Watching Coders Code
+In search of performance – how we shaved 200ms off every POST request
+A Social History of Jell-O
+Everything I Learned About Dual-Stick Shooter Controls
+Boycott Docker
+Effective Feature Flags
+An Introduction to IndexedDB (2014)
+With $100M in Funding, Carbon3D Will Make 3D Manufacturing a Reality
+Sharding Pinterest: How we scaled our MySQL fleet
+Show HN: Literate Programming Implementation of the Promises/A+ Standard
+Doing Science On The Web: A way to launch experimental features
+The age of the universe
+Google Is Working on a New Type of Algorithm Called “Thought Vectors”
+An honest guide to the San Francisco startup life
+Optimizing South Korean Technology for American Users
+BinNavi was open sourced by Google
+The ratio of boys to girls at conception has been misunderstood
+Finland considers basic income to reform welfare system
+Allen Newell: Desires and Diversions (1991) [video]
+Spotify apologizes for new terms and conditions roll-out
+Preparing Windows Server Technical Preview for Windows Containers
+An Introduction to Sine-Wave Speech (2007)
+Dependency parse tree visualization
+Traps detection during migration of C and C++ code to 64-bit Windows
+A GraphQL query parser in C++ with C and C++ APIs
+Show HN: SpaCy – Build tomorrow's language technology products with Python
+Romantic Cryptography: how to say “I love you” only if the other person does too [pdf]
+Balancing Correctness, Latency and Cost in Unbounded, Out-Of-Order Processing
+Spectrum Painter: Converting images to IQ streams that appear in waterfall plots
+The Changing Face of Shenzhen, the World's Gadget Factory
+Ask HN: After 20 years of programming, what do I do now?
+Statistical Anomaly Detection
+Netflix Fenzo: OSS Scheduler for Apache Mesos Frameworks
+Srandom: Fast /dev/urandom PRNG
+Debug Mode Is the Only Mode (2012)
+PHP 7.0.0 RC 1 Released
+The story behind Curiosity's self-portraits on Mars
+Sublime Text's Plugin API: It's Python, Sort Of
+Pedants' Favorite Grammar Rules are Probably Fake
+Ligra: A Lightweight Graph Processing Framework for Shared Memory
+When the U.S. Almost Nuked the Moon
+The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)
+Making Robots [video]
+New data from Antarctic detector firms up cosmic neutrino sighting
+The Bright Students Left Behind
+Organising unstructured networks (2004)
+Large-Scale Machine Learning with Spark on Amazon EMR
+Ionic Marketplace
+CefSharp – Embedded Chromium for .NET
+Chicken Scheme Internals: Data Representation
+Pumping the Primes
+The Ashley Madison hack ruined my life
+Mysteries of avian migration at night are being solved with computational power
+San Francisco’s Newest Fast Food: Healthy, Cheap and Served by Robots
+Russia threatens to block Wikipedia over cannabis page
+Most complete human brain model to date is a ‘brain changer’
+Rethinking Forms in the Age of Tablets and Amazon S3
+The Hollerith Machine
+Ask HN: What Happened to Tesla's Self Driving Function Planned for Summer 2015?
+Why You’re Biased About Being Biased
+The Long Life and Quiet Death of True Detective Magazine
+Why I Don't Do Unpaid Overtime and Neither Should You
+Brace yourself: SOPA set to strike again
+Spotify Tries to Put Out a Privacy Fire
+Why every website should switch to HTTPS
+Online Lender Social Finance’s Latest Fundraising Implies $4B Valuation
+Abandoning the Work I Hated
+How Nvidia  Is Unlocking the Potential of GPU-Powered Deep Learning
+Jeb Bush wants “a new arrangement with Silicon Valley” to ease crypto
+Google joins Facebook in support of Zero Rating in India
+A short-run view of what computers do
+Dream Journal of the Man Who Discovered Neurons
+Stack Overflow Hits 10M Questions
+Citi Overlooked a Few Thousand Illegal Trades
+Understanding Critical CSS
+Facebook Should Pay All of Us
+The Electronic Scriptorium (1996)
+Intel and TBS Announce America’s Greatest Makers Reality Show, $1M Prize
+Generic nodes in network emulators
+Humans, Shoes and eCommerce – The back story of Markhor (YC S15)
+Comcast gave politician identity of a subscriber suggesting he molests children
+The Caveman Guide to Parenting
+Chimpanzees and monkeys use stone tools
+Science Crowdfunding Case Study: Sequencing Lil Bub's Genome
+Google covertly lobbied against net neutrality in India
+Understanding Malvertising Through Ad-Injecting Browser Extensions [pdf]
+Potential sources of helium revealed
+Spotifys new privacy policy is atrocious
+The Oral History of the Launch of Epicurious
+Google Express plans to shut down its two delivery hubs, revamp the service
+The End of Walking
+Ask HN: What is your strategy for organizing your files or notes?
+Zirtual Fired 400 Employees Right Before It Was Acquired. Now They’re Suing
+Views of the Tesseract (1904)
+Unexpected string to byte casting behavior in Go 1.5
+Mozilla's Servo Engine Now Capable of Rendering GitHub
+Computers Are Showing Their Biases, and Tech Firms Are Concerned
+OpenBSD 5.8 Preorders Enabled, Release Song Published
+You Can’t Do Squat About Spotify’s Eerie New Privacy Policy
+Show HN: Open sourcing backend of our turn-based multiplayer gaming platform
+Coding new pentagon tiling
+Announcing Lower, Simpler Pricing
+DIY overhead spaceship control panel for PC
+Stripe Checkout in more languages
+Science Isn’t Broken
+Tristes Tropiques by Claude Lévi-Strauss – Melancholy Anthropology
+New Spotify privacy policy wants access to your photos
+Cameron's World
+Ashely Madison Hackers
+One Map Shows How Many People Police Have Killed So Far This Year in Every State
+The 100 hour work week in Japan
+Second Ashley Madison Dump Includes Source Code, CEO Emails
+How to convince your friends vertical farming is the next big thing
+What I've Learned About Venture Funding
+The Startling Poetry of a Nearly Forgotten Japanese Modernist
+The Books That Taught American Women to Camp in the Early 20th Century
+I placed the same order at Amazon, Jet and Wal-Mart. Here’s how they did
+Dow suffers biggest weekly point drop since worst week of the financial crisis
+Dow suffers biggest weekly point drop since week ending Oct. 10, 2008
+Introducing technical preview of Docker Engine for Windows Server 2016
+Stackoverflow Developer Survey 2015
+AirBNB why did you terminate my account? – An Open Letter to AirBNB
+Y Combinator Gets Hardcore About Hardware
+Snapchat lost $128M during the first 11 months of 2014
+Glass 3D Printing
+CEOs of Silicon Valley's Top Firms Are Often Non-White, Immigrants, or Women
+Ask HN: Best way of learning mobile dev from a webdev background?
+On the nature of timers
+Dustin Moskovitz: Work Hard, Live Well
+Amazon stops accepting Flash based ads next week
+Why Jeff Bezo's defense of Amazon’s bruising workplace is hard to swallow
+Tweets take flight in the Google Search
+Life Sciences is the first new company under the umbrella of Alphabet
+Wikipedia Is Steadily Losing Google Traffic
+Ask HN: Anyone else want a better OS X Mail client?
+Should Surgeons Keep Score?
+Stellar – Public infrastructure for money
+Ask HN: Any way to find why users uninstall my app?
+How Thatcher Killed UK Superfast Broadband
+German email services GMX and web.de provide end-to-end encryption
+Researchers Link Longer Work Hours and Stroke Risk
+Why NASA Helped Ridley Scott Create ‘The Martian’ Film
+The $800M Family Selling Art Degrees and False Hopes
+Uber has a projection of $26.12b revenue in 2016
+Most hedge funds don't appear to be doing any hedging or active management
+Ten. Million. Questions
+Cross-Platform UI in GitHub Desktop
+Coming from a .Net programming background Unity's API feels like a horror-show
+GeForce-Powered Augmented Reality Sandbox [video]
+Blind faith in China's stock market
+​Bruce Schneier: The cyberwar arms race is on
+A New Aristocracy [pdf]
+Editing humanity
+Windows Server Containers Released in Preview
+Get Rich With: Your Own Urban Tribe
+WWW Creator Tim Berners-Lee Leads W3C to Establish Online Payment Standards
+How California – the land of startups – is least friendly for small business
+The mind-bending messiness of the Ashley Madison data dump
+Useful free tools for the web designer’s toolbox
+Scroll down to see how time flies
+Ask HN: Would you read a book about emulation?
+Larry Lessig for President 2016
+Modafinil is world's first safe 'smart drug'
+Ask HN:How do Apps get featured on the Appstore?
+Pando goes to, and is escorted out of, Y Combinator demo day
+Google Ordered to Remove Links to Stories About Google Removing Links to Stories
+Everything You Think You Know About the History and Future of Jobs Is Likely Wrong
+Announcing Lower, Simpler Pricing
+The vacancy rate in NYC is a lie – and we can double it overnight
+What happens when a neighborhood bans cars for a month
+Billions of request per day meet Go 1.5
+NSA Finds New Snowden Emails: But They're Not About His 'Concerns'
+Docker Engine for Windows Server 2016
+Inside the spyware campaign against Argentine troublemakers
+Here Are the 52 Startups That Launched at Y Combinator Summer 2015 Demo Day 2
+Tesla: Don't use our Superchargers all the time
+MIT, Harvard find metabolic 'master switch' behind obesity
+Ad Blockers and the Nuisance at the Heart of the Modern Web
+Ask HN: Developing a Skillset for Contracting in Europe
+Show HN: Beardmetrics – Social local global insights for your beard
+Building Modular JavaScript with Webpack
+How Google Could Rig the 2016 Election
+10 reasons you shouldn't upgrade to Windows 10
+Google is testing promoted video ads in search results
+The Day Hollywood Ate Silicon Valley
+Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning
+Space and Time Warps
+My Amazon Burnout Experience
+British pupils taught by Chinese outpace their peers in experiment
+This Time-Lapse of a L.A. Took 2 Years to Make
+Greek Prime Minister Tsipras Steps Down, Calls for Re-Elections
+16 product lessons learned at Imgur
+Anti-immigration Sweden Democrats become country’s largest party
+This guy turned his failure on 'Shark Tank' into $28m from Richard Branson
+Fire the workaholics
+Ask HN: 23 year old loss in life. What to do now?
+Elixir – The next big language for the web
+One of these is Jupiter's moon Europa, the rest are frying pans
+John McAfee AMA
+10 Best Practices for Peer Code Review
+Can America thump China for the OPM hack – and should it?
+Ask HN: How should we split the equity?
+How Snoopy Killed Peanuts
+China arrests 15,000 for Internet-related crimes
+Here's What Happened When a Neighborhood Decided to Ban Cars for a Month
+Why you still get drunk drinking “session” beers
+Ask HN: I've been asked if I'd like to give up my GitHub name
+'More Ashley Madison' data leaked onto dark net
+How Google could rig the 2016 election
+The most American thing there is: eating alone
+Behind the App: The Story of FileZilla
+Distribution of the 37M users on Ashley Madison
+Chrome considering API keys and auto self-destruct for experimental features
+23 fascinating diagrams reveal how to negotiate with people around the world
+Now Google must censor search results about Right to Be Forgotten removals
+Researchers Have Thoroughly Shown That Gluten Sensitivity Doesn't Exist
+Who needs work-life balance?
+Elon Musk's Hyperloop Is Actually Getting Kind of Serious
+Farmer so sick of poor Internet signal he built DIY mast
+Google ordered to remove links to 'right to be forgotten' removal stories
+'Space Jam' Forever: The Website That Wouldn't Die
+The story of Shutdownify, the best metaphor Silicon Valley never had
+Mr. Robot Episode Titles Are Brilliant
+16-year old teen claims his search engine is 47% more accurate than Google
+DirectX 12 tested: An early win for AMD and disappointment for Nvidia
+Google just invested $100M into this hot startup
+In China, Women Hired to Motivate Computer Programmers
+Snapchat generated only $3.1M last year
+New data uncovers the surprising predictability of Android lock patterns
+Official Themes from Bootstrap's creators
+Zerocater hits 100m in sales
+Ask HN: Sandbox mode for a SaaS?
+OnePlus 2 Review
+Dealing with Software Religious Arguments and Architectural Zealotry
+MIT Review Pioneers Under 35
+Ask HN: What do you use to draw graphs?
+The £200 device that could steal your bank PIN
+Machines are destroying jobs and creating better ones through creative destruction
+2008 letter to Jeff Bezos from employee
+Apple TV: From perfectly working game changer to source of frustration
+This Indian Airport Runs Entirely on Solar Power
+Hindsight – it's not just for past events
+Ask HN: How to apply agile to a team of 5-7 without annoying the talented?
+A female founder at Y Combinator: my experience
+Spotify Just Got Real Creepy with the Data It Collects on You
+New Heroku Dynos Get 2.5GB RAM
+Do Gang Killings Spread Like the Flu?
+Ad Blockers and the Nuisance at the Heart of the Modern Web
+World’s smallest drone launches next month – Aerius
+Trinity: Visualization of nuclear detonations from 1945 to present
+Timeline of web browsers
+How to fix yellowed plastics on old computers [video]
