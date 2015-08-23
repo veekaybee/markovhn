@@ -13,4 +13,4 @@ for i in data:
 	#print genurl
 	item_response=urllib2.urlopen(genurl)  
 	parsed_response=json.load(item_response)
-	print parsed_response["title"]
+	print parsed_response["title"].encode('utf-8')
