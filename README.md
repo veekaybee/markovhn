@@ -3,11 +3,9 @@
 
 Creating Markov chain-generated Hacker News headlines with Python.  Based on generator code from [here](https://gist.github.com/grantslatton/7694811). 
 
-1) Pull data from the HN API using news.py and pipe news.py output into a texfile called headlines.txt:
+1) Pull data from the HN API using news.py.
 
-``` python news.py > headlines.txt```
-
-2) Run markp.py against headlines.txt
+2) Run markov.py
 
 3) Profit.
 
